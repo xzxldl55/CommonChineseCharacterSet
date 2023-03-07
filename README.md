@@ -5,4 +5,6 @@
 
 ## 压缩字体
 
+*仅支持ttf格式字体压缩，如其他字体可先使用fontCreator另存为TrueType转为ttf*
+
 > pnpm minify
