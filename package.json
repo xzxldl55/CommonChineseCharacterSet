@@ -1,0 +1,15 @@
+{
+  "name": "common-chinese-character-set",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "minify": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fontmin": "^0.9.9"
+  }
+}
